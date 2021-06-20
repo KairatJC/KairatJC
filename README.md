@@ -36,3 +36,7 @@ My criteria for Quality are:
 **Repo hosting services:** GitHub, GitLab.   
 **Containerization:** Docker.   
 **CI/CD:**  Jenkins, GitLab CI.   
+
+## Contacts
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kairat-santashbekov/)
+- ✉️ kairatjc@gmail.com
