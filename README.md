@@ -4,7 +4,3 @@
 ## Stack
 main language - JavaScript   
 additional languages: C#, php
-
-## Contacts
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kairat-santashbekov/)
-- ✉️ kairatjc@gmail.com
