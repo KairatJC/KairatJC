@@ -1,58 +1,38 @@
 ## Hello there 👋
-# My name is Kairat
-I feel like Frontend Developer. But also I know about C# Backend, Automation QA stuff, Security Engineering, etc.
+# My name is Kairat, I'm good at creating websites.
   
-What makes me a Frontend Developer?
+What makes me think like that:
 
-## First, I know what a quality website is.
+### The first thing is - I know what Quality Website is.
 My criteria for Quality are:
 - **Accessibility** - I use Web Content Accessibility Guidelines - recommendations for making Web content more accessible;
 - **Security** - The OWASP Top 10 - list of the most critical security risks to web applications.
 - **Clear UX** - my personal user experience.
 
-## The second thing is - I know what site is and how to create site from scratch:
+### The second thing is - I know how to create site from scratch:
 - **HTML**: HTML5, Forms and Validations, Accessibility, SEO basics.
 - **CSS**: CSS3, Layouts (positioning, display, FlexBox, CSS Grid Layout), Responsive Design and Media Queries.
-- **CSS Architecture**: BEM.
-- **CSS Preprocessor**: Sass/Less.
+- **CSS Architecture:** BEM.
+- **CSS Preprocessor:** Sass/Less.
 
-## Also, for give life to the sites I use:
-**JavaScript:**  
-- Syntax and Basic Constructs;  
-- DOM Manipulation;  
-- Fetch API / AJAX (XHR);  
-- ES6 + modular JavaScript;  
-- Concepts: Hoisting, Event Bubbling, Prototype, Shadow DOM.  
+### The third thing is - I know how to make my life easier:
+- **CMS:** WordPress.
+- **Frameworks:** React + Redux, Vue + Vuex.
+- **SSR:** Nuxt.js.
 
-## For fast and efficient work I use:
-**Framework:**
-- React JS + Redux.
-- Vue.JS + Vuex.  
-**Server Side Rendering:** Nuxt.JS  
-CMS: WordPress.  
+### The fourth thing is - I know how to improve quality of product:
+**Functional testing:**   
+- **Unit tests:** Jest, Enzyme.
+- **UI tests:** Webdriver.IO, Selenium.   
 
-## To optimize the processes of creating a site I use:
-**Package Managers:** npm, Yarn.  
-**Task runner:** npm scripts.  
-**Linter and Formatter:** ESLint.  
-**Module Bundlers:** Webpack.  
-  
-## To reduce defects in my work, I use:
-**UI Testing:** Webdriver.IO, TestCafe;   
-**Behavior-driven development:** Cucumber/Gherkin;   
-**Performance testing:** JMeter, Lighthouse, SiteSpeed.IO.   
-**Security testing:** OWASP ZAP, OWASP Dependency-Check, npm audit.   
-**Testing frameworks:** Jest, Mocha;  
+**Non-functional testing:**   
+- **Performance tests:** Sitespeed.IO, JMeter.   
+- **Security:** Dependency Check, npm audit, ZAP.   
 
-## Additional:
-**Coding and Designing:**
-- Data structure and algorithms;
-- Design patterns: Builder, Decorator, Singleton, Factory;
-- SOLID: Single-Responsibility Principle, Open-Closed Principle, Dependency Inversion Principle;
-- Protocols: HTTP/HTTPS protocol, FTP, WebSocket;
-  
-**Organization of coding process:**
-- Version Control Systems: Git.
-- Repo hosting services: GitHub, GitLab.
-- Containerization: Docker;
-- CI/CD:  Jenkins;
+**BDD:** Cucumber/Gherkin.
+
+### The fifth thing is - I know how to deliver my product:
+**Version Control Systems:** Git.   
+**Repo hosting services:** GitHub, GitLab.   
+**Containerization:** Docker.   
+**CI/CD:**  Jenkins, GitLab CI.   
