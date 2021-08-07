@@ -1,5 +1,5 @@
 ## Hello there 👋
-# My name is Kairat, I'm good at creating websites.
+# My name is Kairat.
 
 ## Stack
 main language - JavaScript   
