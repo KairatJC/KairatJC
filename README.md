@@ -1,3 +1,3 @@
-## Hello there 👋
-# My name is Kairat.
-I do some automation. Test automation.
+Hello, my name is Kairat.
+
+I do some test automation.
